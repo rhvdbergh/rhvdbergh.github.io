@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Filter Arrays for Unique Values
+# toc: true
 date: '2019-11-11'
 draft: false
 slug: '/posts/Filter-Arrays-for-Unique-Values.md'
