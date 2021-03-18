@@ -9,7 +9,7 @@ tags:
   - 'GitHub'
   - 'Git'
   - 'Commit'
-description: 'A quick post on how to link to a specific snapshot of code on GitHub.'
+excerpt: 'A quick post on how to link to a specific snapshot of code on GitHub.'
 ---
 
 ## Introduction

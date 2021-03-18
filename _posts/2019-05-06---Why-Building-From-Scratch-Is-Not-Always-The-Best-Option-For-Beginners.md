@@ -8,7 +8,7 @@ categories: 'Learning'
 tags:
   - 'Beginner'
   - 'Code Review'
-description: 'Building something from scratch is a great learning opportunity. When I put together this blog, I could have done just that. And I could have opted to use a tutorial to guide me in this process.'
+excerpt: 'Building something from scratch is a great learning opportunity. When I put together this blog, I could have done just that. And I could have opted to use a tutorial to guide me in this process.'
 ---
 UPDATE: In March 2021, I switched to using Jekyll as a static site generator for this blog. I'm using a slightly modified version of the [Hamilton theme by Shanghzi Huang](https://github.com/ngzhio/jekyll-theme-hamilton). Most of what I say below still applies. 
 

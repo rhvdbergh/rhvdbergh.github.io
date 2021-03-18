@@ -10,7 +10,7 @@ tags:
   - 'Image'
   - 'Tips & Tricks'
   - 'Command line'
-description: 'I recently had to resize several photos for my project page. Normally, I would use the excellent free image manipulation program GIMP. But I wondered whether there was an easier way to apply the same resizing to images without having to open GIMP.'
+excerpt: 'I recently had to resize several photos for my project page. Normally, I would use the excellent free image manipulation program GIMP. But I wondered whether there was an easier way to apply the same resizing to images without having to open GIMP.'
 ---
 
 ## Introducing **sips**

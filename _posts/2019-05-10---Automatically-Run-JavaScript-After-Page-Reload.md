@@ -10,7 +10,7 @@ tags:
   - 'Express'
   - 'location.reload()'
   - 'nodemailer'
-description: 'I recently needed to automatically run JavaScript on a page (owned by someone else) that I wanted to refresh after regular intervals. Why would I want to do this? Well, I needed to watch a calendar for a cancellation so I can make a booking, and wanted to automate this process.'
+excerpt: 'I recently needed to automatically run JavaScript on a page (owned by someone else) that I wanted to refresh after regular intervals. Why would I want to do this? Well, I needed to watch a calendar for a cancellation so I can make a booking, and wanted to automate this process.'
 ---
 
 ## The Problem

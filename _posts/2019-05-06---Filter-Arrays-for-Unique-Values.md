@@ -12,7 +12,7 @@ tags:
   - 'Duplicates'
   - 'Unique Values'
   - '.includes()'
-description: 'Ever needed to remove all the duplicates from an `Array` in JavaScript? Well, there is a hard way, an easy way, and an elegant way.'
+excerpt: 'Ever needed to remove all the duplicates from an `Array` in JavaScript? Well, there is a hard way, an easy way, and an elegant way.'
 ---
 
 ## The Problem

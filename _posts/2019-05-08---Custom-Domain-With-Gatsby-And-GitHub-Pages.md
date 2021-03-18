@@ -10,7 +10,7 @@ tags:
   - 'GitHub Pages'
   - 'Tips & Tricks'
   - 'CNAME'
-description: 'I am using GitHub Pages to host this blog, which was built with Gatsby. As you can probably see, I use a custom domain ([https://vanderbergh.com](https://vanderbergh.com)) which needs to be set in the GitHub Pages repository settings.'
+excerpt: 'I am using GitHub Pages to host this blog, which was built with Gatsby. As you can probably see, I use a custom domain ([https://vanderbergh.com](https://vanderbergh.com)) which needs to be set in the GitHub Pages repository settings.'
 ---
 
 I am using GitHub Pages to host this blog, which was built with Gatsby. As you can probably see, I use a custom domain ([https://vanderbergh.com](https://vanderbergh.com)) which needs to be set in the GitHub Pages repository's settings.

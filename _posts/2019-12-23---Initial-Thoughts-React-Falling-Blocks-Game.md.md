@@ -10,7 +10,7 @@ tags:
   - 'Roadmap'
   - 'Planning'
   - 'Design'
-description: 'Some initial thoughts on building a falling blocks game (you know, that game where pieces consisting of four blocks fall down the screen and stack on each other - until you fill up a whole horizontal line). This post is the first in a series.'
+excerpt: 'Some initial thoughts on building a falling blocks game (you know, that game where pieces consisting of four blocks fall down the screen and stack on each other - until you fill up a whole horizontal line). This post is the first in a series.'
 ---
 
 ## Introduction
