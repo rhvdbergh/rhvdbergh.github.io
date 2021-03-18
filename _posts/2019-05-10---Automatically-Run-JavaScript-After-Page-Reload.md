@@ -56,7 +56,7 @@ Next, I had to install the extension. This turned out to be easy too: simply nav
 
 I could now access any element in the DOM and add some logic to it. In my case, the calendar was a table, so I grabbed hold of all the `td` elements on the page and tested each for a specific class. That's the way this page was set up-available dates had a specific class, so I could figure out whether there was an opening on the calendar or not. I then added the following to the `reloader.js` script:
 
-```
+```javascript
 setTimeout(() => {
   location.reload();
 }, 120000);
@@ -66,7 +66,7 @@ Every two minutes (the `setTimeout()`), the page would refresh (the `location.re
 
 I then used [express-generator](https://www.npmjs.com/package/express-generator) to spin up a local server, and called
 
-```
+```javascript
 fetch('http://localhost:3000/open', { mode: 'no-cors', method: 'post' })
 ```
 

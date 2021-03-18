@@ -28,7 +28,7 @@ The hard way of doing this would be to set up two loops. While stepping through 
 
 There's more than one way of doing this, but here's an example:
 
-```
+```javascript
 // assuming you have a firstArray and you've declared an empty uniqueValues
 
 uniqueValues.push(firstArray[0]);
@@ -59,7 +59,7 @@ By the way, that `forEach` used on `uniqueValues` will keep getting longer as yo
 
 The easy way, since 2016, would be to let `.includes()` do the hard work for you, essentially taking the place of that second loop. In this case, too, you wouldn't have to set an initial value for `uniqueValues`, since includes() will simply return `false` for an empty array.
 
-```
+```javascript
 // assuming you have a firstArray and you've declared an empty uniqueArray
 
 firstArray.forEach(value => {
@@ -73,7 +73,7 @@ firstArray.forEach(value => {
 
 The elegant way would be to convert the `Array` to a `Set` (and then switching it back to an array with a [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)):
 
-```
+```javascript
 const newSet = new Set(arr);
 const newArr = [...newSet];
 ```
