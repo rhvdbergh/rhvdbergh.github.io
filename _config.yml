@@ -15,11 +15,11 @@ paginate: 15
 skin: daylight
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
+#
+google_analytics: UA-135463550-1
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
+#
 # disqus:
 
 # Jekyll
@@ -40,5 +40,5 @@ social:
   links:
     - https://twitter.com/ronaldvdb
     - https://github.com/rhvdbergh
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+# google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
