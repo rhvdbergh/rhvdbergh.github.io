@@ -5,6 +5,22 @@ permalink: /projects/
 toc: true
 ---
 
+## Movies Saga
+
+_Duration: Weekend Challenge_
+
+This app is a movie list app. Users can view the top ten movies in the main page, but also search for specific movies (with no limit) by typing in the search box in the top right of the app. The search is immediate; results appear as the user types.
+
+The user can also add movies (by supplying a title, poster url, description, and genres). Users can later edit movies by clicking on the movie on the main page—which will display the selected movie's details—and then selecting edit on the next page.
+
+An additional feature is that (after a mock login), an admin user can add or remove genres.
+
+This app was built as one of the portfolio projects for [Prime Digital Academy](https://www.primeacademy.io/).
+
+The app uses a [PostgreSQL](https://www.postgresql.org/) database to store the movies and genres, [Express](https://expressjs.com/) / [Node.js](https://nodejs.org/en/) as a server, and [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Redux-Saga](https://redux-saga.js.org/) on the front end. Styling is provided by [Material-UI](https://mui.com/).
+
+[![Movies-Saga (Node Express / SQL / React / Redux / Material-UI)](/media/projects/details.png)](https://evening-stream-08359.herokuapp.com/)
+
 ## React Redux Feedback Loop
 
 _Duration: Weekend Challenge_
@@ -17,7 +33,7 @@ The app was built as one of the portfolio projects for [Prime Digital Academy](h
 
 I enjoyed building this project because it was my first full-fledged app built with redux. Because the feedback forms were all so similar, it also gave me practice in keeping my code DRY: I could reuse the same components (a question page and a header) to which I could pass down a few props to change the way they behave. I could also implement a multi-purpose modal to which I could pass down props; depending on which props were being passed down, the modal displays different options (with either one button or two buttons, conditionally rendered). I also passed down callback functions to the modal which makes the modal more flexible, as the parent component can decide on what actions should be completed on accepting or rejecting the modal.
 
-[![To-do-lister (Node Express / SQL / React / Redux / Material-UI)](/media/projects/feedback_review.png)](https://evening-stream-08359.herokuapp.com)
+[![React-Redux-Feedback-Loop (Node Express / SQL / React / Redux / Material-UI)](/media/projects/feedback_review.png)](https://evening-stream-08359.herokuapp.com/)
 
 <!-- | Node.js | Express | PostgreSQL | SQL | React | Redux | Material-UI | MUI | axios | -->
 
