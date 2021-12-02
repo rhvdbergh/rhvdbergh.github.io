@@ -19,7 +19,7 @@ This app was built as one of the portfolio projects for [Prime Digital Academy](
 
 The app uses a [PostgreSQL](https://www.postgresql.org/) database to store the movies and genres, [Express](https://expressjs.com/) / [Node.js](https://nodejs.org/en/) as a server, and [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Redux-Saga](https://redux-saga.js.org/) on the front end. Styling is provided by [Material-UI](https://mui.com/).
 
-[![Movies-Saga (Node Express / SQL / React / Redux / Material-UI)](/media/projects/main.png)](https://github.com/rhvdbergh/weekend-movie-sagas)
+[![Movies-Saga (Node Express / SQL / React / Redux / Material-UI)](/media/projects/main.png)](https://radiant-mountain-30397.herokuapp.com/)
 
 ## React Redux Feedback Loop
 
