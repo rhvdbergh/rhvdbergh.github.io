@@ -5,6 +5,26 @@ permalink: /projects/
 toc: true
 ---
 
+## Flashy: A teacher-focused flash card app
+
+Flashy was my solo project at [Prime Digital Academy](https://www.primeacademy.io/). It is a teacher-focused flash card app intended for language study. Teachers assign stacks of flash cards to students and are then able to track each student’s progress and participation rate. Teachers can upload CSV files of cards (with front, back, and optionally a batch number in the CSV file) instead of typing out all the cards in the app. (Although that is an option too, along with editing any cards that were already created). The app makes use of Unicode and supports right-to-left text, so languages like Hebrew will display correctly on the digital cards.
+
+Students receive feedback on their progress and reminders when they need to review cards. Cards get sorted based on the student’s familiarity with each card; once cards are marked “known” they will be reviewed periodically, but at intervals increasing in length. (For instance, cards get reviewed after 1 day, then 3 days, then 7 days, etc.).
+
+Teachers are expected to interact with this application on desktop, while students are mostly expected to interact with the application on mobile.
+
+The app uses a [PostgreSQL](https://www.postgresql.org/) database to on the back end, [Express](https://expressjs.com/) / [Node.js](https://nodejs.org/en/) as a server, and [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Redux-Saga](https://redux-saga.js.org/) on the front end. Styling is provided by [Material-UI](https://mui.com/).
+
+[![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/student_learn.png)](https://shrouded-bayou-74485.herokuapp.com/)
+
+[![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/student_stats.png)](https://shrouded-bayou-74485.herokuapp.com/)
+
+[![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/teacher_class_progress.png)](https://shrouded-bayou-74485.herokuapp.com/)
+
+[![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/teacher_edit_class.png)](https://shrouded-bayou-74485.herokuapp.com/)
+
+[![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/teacher_edit_stack.png)](https://shrouded-bayou-74485.herokuapp.com/)
+
 ## Movies Saga
 
 _Duration: Weekend Challenge_
