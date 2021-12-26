@@ -27,8 +27,6 @@ The app uses a [PostgreSQL](https://www.postgresql.org/) database to on the back
 
 ## Giftodo
 
-_Duration: Three days_
-
 Giftodo is a todo app for those who remember gifs better than words. Users can add new tasks (similar to most todo apps) with a name, description, priority, and due date and time. The twist lies therein that the user can also then add a randomly generated gif based on the name of the task. Users can click the generate button until they find a gif that they are satisfied with.
 
 The bottom navigation bar allows users to navigate between four different views: a list of tasks, a list of tasks with gifs assigned to them (and this list displays each gif), the add task view (which becomes the edit task view when a user wants to edit a task), and the dedicated overdue view where users can immediately see which tasks are overdue.
@@ -44,8 +42,6 @@ The app uses a [PostgreSQL](https://www.postgresql.org/) database to on the back
 
 ## Movies Saga
 
-_Duration: Weekend Challenge_
-
 This app is a movie list app. Users can view the top ten movies in the main page, but also search for specific movies (with no limit) by typing in the search box in the top right of the app. The search is immediate; results appear as the user types.
 
 The user can also add movies (by supplying a title, poster url, description, and genres). Users can later edit movies by clicking on the movie on the main page—which will display the selected movie's details—and then selecting edit on the next page.
@@ -59,8 +55,6 @@ The app uses a [PostgreSQL](https://www.postgresql.org/) database to store the m
 [![Movies-Saga (Node Express / SQL / React / Redux / Material-UI)](/media/projects/main.png)](https://radiant-mountain-30397.herokuapp.com/)
 
 ## React Redux Feedback Loop
-
-_Duration: Weekend Challenge_
 
 This app is a reflection / feedback form that allows users to rate their feeling, comprehension, and perception of support and enter any comments. There is also an admin page where admin users can view feedback provided by users, flag feedback (for further review), or delete specific feedback.
 
