@@ -5,7 +5,7 @@ title: Filter Arrays for Unique Values
 date: '2019-11-11'
 draft: false
 slug: '/posts/Filter-Arrays-for-Unique-Values.md'
-categories: 'Tips & Tricks'
+categories: 'Tips'
 tags:
   - 'Arrays'
   - 'Set'

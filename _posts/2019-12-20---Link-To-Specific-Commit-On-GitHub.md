@@ -4,7 +4,7 @@ title: How to Link to a Specific Commit on GitHub
 date: '2019-12-20'
 draft: false
 slug: '/posts/Link-To-Specific-Commit-On-GitHub.md'
-categories: 'Tips & Tricks'
+categories: 'Tips'
 tags:
   - 'GitHub'
   - 'Git'
