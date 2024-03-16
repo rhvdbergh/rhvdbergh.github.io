@@ -4,7 +4,7 @@ title: Resize Multiple Images Quickly with the Mac Terminal
 date: '2019-05-07'
 draft: false
 slug: '/posts/resize-multiple-images-quickly-with-the-mac-terminal/'
-categories: 'Tips & Tricks'
+categories: 'Tips'
 tags:
   - 'Sips'
   - 'Image'

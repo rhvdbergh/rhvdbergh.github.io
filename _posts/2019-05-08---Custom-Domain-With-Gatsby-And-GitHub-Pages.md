@@ -4,7 +4,7 @@ title: CNAME fix for Persistent Custom Domain with Gatsby and GitHub Pages
 date: '2019-05-08'
 draft: false
 slug: '/posts/custom-domain-with-gatsby-and-github-pages/'
-categories: 'Tips & Tricks'
+categories: 'Tips'
 tags:
   - 'Gatsby'
   - 'GitHub Pages'
