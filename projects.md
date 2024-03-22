@@ -24,6 +24,15 @@ The app uses a [PostgreSQL](https://www.postgresql.org/) database to on the back
 [![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/teacher_edit_class.png)](https://shrouded-bayou-74485.herokuapp.com/)
 
 [![Flashy (Node Express / SQL / React / Redux / Material-UI)](/media/projects/teacher_edit_stack.png)](https://shrouded-bayou-74485.herokuapp.com/)
+## Typer
+
+As a Greek teacher, I thought it was important that my students could type in Greek Unicode. However, normally this is a hard-won skill: it takes considerable time (and pain) to learn to type in a different language. So, I created a game. (I also wanted to play around with [PixiJs](https://pixijs.com/), a JavaScript animation library.) The game is inspired by Letter Invaders, a game I played myself when learning to touch type that was included with the Typing Tutor software. Increasingly difficult words to type fall down from the of the screen, and if the player doesn't finish typing out the word before it hits the bottom, they lose a life.
+
+I wanted to keep the entry barrier low, so I mapped the keys of a standard US keyboard to what the Greek Polytonic keyboard would normally be. This way, students didn't have to install the keyboard first (a challenge for some people who want to learn Koine Greek, since not all students have strong tech skills). The game uses a drop-in language and keymap system, so other languages and keymaps could be used if needed. 
+
+This app was built in [TypeScript](https://www.typescriptlang.org/) and uses [PixiJs](https://pixijs.com/) for animation.
+
+[![Typer (TypeScript / PixiJs)](/media/projects/typer.png)](https://bit.ly/greektyper)
 
 ## Giftodo
 
@@ -39,7 +48,6 @@ The app uses a [PostgreSQL](https://www.postgresql.org/) database to on the back
 
 [![Giftodo (Node Express / SQL / React Native / React Native Elements)](/media/projects/task_list.png)](https://github.com/rhvdbergh/giftodo)
 [![Giftodo (Node Express / SQL / React Native / React Native Elements)](/media/projects/gif_list_sort.png)](https://github.com/rhvdbergh/giftodo)
-
 ## Movies Saga
 
 This app is a movie list app. Users can view the top ten movies in the main page, but also search for specific movies (with no limit) by typing in the search box in the top right of the app. The search is immediate; results appear as the user types.
